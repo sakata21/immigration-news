@@ -1,1 +1,1 @@
-# canada-immigration-news.github.io
+# immigration-news.github.io
